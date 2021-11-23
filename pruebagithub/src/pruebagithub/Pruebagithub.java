@@ -15,10 +15,9 @@ public class Pruebagithub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int suma = 2 + 2;
         System.out.println("Esto es una prueba para subir al repositorio de github.");
         System.out.println("¡Hola! me llamo Eva.");
-        System.out.println("2 + 2 = " + suma);
+        System.out.println("FIN.");
     }
 
 }
